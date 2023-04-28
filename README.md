@@ -2,6 +2,10 @@
 
 #The title of this website is the MODERN ART GALLERY.
 
+#To visit the page, kindly tap on the link below:
+
+#https://rhemedhi.github.io/ModernArtGallery/
+
 #This website showcase the design of beautiful portraits made by the Modern Art Gallery. 
 
 #This project was built using HTML5 and CSS3 and was deployed through git to github pages using the git commands below;
